@@ -1,2 +1,2 @@
 # Project_One_2020EKTPHB
-This is our Project One
+This is our Project One for our group. 
